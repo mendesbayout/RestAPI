@@ -29,3 +29,13 @@ The Challenge was basically; as an admin(Cheff), CRUD receips. As an user, reque
 
 9️⃣ Start the local server: py manage.py runserver
 
+Durante esse processo, se tudo estiver de acordo como esperado, teremos as seguintes opções
+
+1️⃣ - 127.0.0.1:8000/admin/ > Pagina de management padrão do Django Rest Framework. Aqui 0 Cheff tem o poder de editar e postar novas receitas, e até incluir novos cheffs
+
+2️⃣ - 127.0.0.1:8000/swagger/ > Pagina para consulta de usuario, ele pode em sequência:
+   GET - all cheffs   
+   GET Cheff recipes
+   GET specific recipes
+
+Além de uma documentação o SwaggerUI provém interface a CRUD operations e também opera com o package openAPI para fornecer um endpoint para trabalhos em front end como exemplo.
