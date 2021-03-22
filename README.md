@@ -38,4 +38,4 @@ Durante esse processo, se tudo estiver de acordo como esperado, teremos as segui
    GET Cheff recipes
    GET specific recipes
 
-Além de uma documentação o SwaggerUI provém interface a CRUD operations e também opera com o package openAPI para fornecer um endpoint para trabalhos em front end como exemplo.
+Além de uma documentação o SwaggerUI provém interface a CRUD operations e também opera com o package openAPI para fornecer um endpoint para trabalhos em front end como exemplo. Esse projeto pode ser usado como template para infinitos tipos de RESTfull API's
