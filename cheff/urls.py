@@ -8,12 +8,13 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="Cheff API backendtest",
-      default_version='v1',
-      description="Test description",
-      terms_of_service="https://www.google.com/policies/terms/",
-      contact=openapi.Contact(email="contact@snippets.local"),
-      license=openapi.License(name="BSD License"),
+      title="Cheff API backend exam WORKALOVE",
+      
+      default_version='beta backend',
+      description="Esta interface é a conexão entre você e dois dos melhores cheff's do mundo, um é especialista em FastFood, seu nome é Vinsmoke, o outro, é especialista em receitas demoradas, ele se chama Zeff, você comprou esse contato direto com eles por 5 milhões de dolares. Essa API fornece também a possibilidade de integração com Qualquer sistema de frontend.Caso tenha algum problema, acesse o dominio http://127.0.0.1:8000/admin/, as credenciais devem ser criadas.",
+      terms_of_service="https://github.com/mendesbayout",
+      contact=openapi.Contact(email="mendesbayout@gmail.com"),
+      license=openapi.License(name="Como o test é de backend voltado para Django Rest, acho que um Swagger funcional pode ser chamado de CRUD Interface. 1 - GET>TRY>Execute to meet their Ids"),
    ),
    public=True,
    permission_classes=(permissions.AllowAny,),
