@@ -11,13 +11,21 @@ The purpose of this project is to present a simple solution for a Backend positi
 The Challenge was basically; as an admin(Cheff), CRUD receips. As an user, request for receips filtering by level of complexity or time consumed, and any other field. Well, as the position is for backend and I have few time; please make sure your user reads the documentation because his frontend is the Swagger itself, and the information he requests, will be in returned in JSON.
 
 
+:one:Make sure python is installed (included env paths) 
 
- 1. Make sure python is installed (included env paths) 
- 2. Initialize a new virtual environment: py -m venv env
- 3. Activate your virtual env: source venv/bin/activate(Activate1)
- 4. Intall dependencies: pip install -r requirements.txt
- 5. Install postgres13, create a DB and replace the configurations in Django settings.
- 6. Go to project main directory.
- 7. Apply migrations: py manage.py migrate
- 8. Create superuser : py3 manage.py createsuperuser
- 9. Start the local server: py manage.py runserver
+2️⃣:Initialize a new virtual environment: py -m venv env
+
+3️⃣:Activate your virtual env: source venv/bin/activate(Activate1)
+
+4️⃣:Intall dependencies: pip install -r requirements.txt
+
+5️⃣:Install postgres13, create a DB and replace the configurations in Django settings. https://www.postgresql.org/
+
+6️⃣:Go to project main directory.
+
+7️⃣:Apply migrations: py manage.py migrate
+
+8️⃣: Create superuser : py3 manage.py createsuperuser
+
+9️⃣:Start the local server: py manage.py runserver
+
