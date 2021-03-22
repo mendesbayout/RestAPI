@@ -13,19 +13,19 @@ The Challenge was basically; as an admin(Cheff), CRUD receips. As an user, reque
 
 :one:Make sure python is installed (included env paths) 
 
-2️⃣:Initialize a new virtual environment: py -m venv env
+2️⃣ Initialize a new virtual environment: py -m venv env
 
-3️⃣:Activate your virtual env: source venv/bin/activate(Activate1)
+3️⃣ Activate your virtual env: source venv/bin/activate(Activate1)
 
-4️⃣:Intall dependencies: pip install -r requirements.txt
+4️⃣ Intall dependencies: pip install -r requirements.txt
 
-5️⃣:Install postgres13, create a DB and replace the configurations in Django settings. https://www.postgresql.org/
+5️⃣ Install postgres13, create a DB and replace the configurations in Django settings. https://www.postgresql.org/
 
-6️⃣:Go to project main directory.
+6️⃣ Go to project main directory.
 
-7️⃣:Apply migrations: py manage.py migrate
+7️⃣ Apply migrations: py manage.py migrate
 
-8️⃣: Create superuser : py3 manage.py createsuperuser
+8️⃣ Create superuser : py3 manage.py createsuperuser
 
-9️⃣:Start the local server: py manage.py runserver
+9️⃣ Start the local server: py manage.py runserver
 
