@@ -25,7 +25,7 @@ The Challenge was basically; as an admin(Cheff), CRUD receips. As an user, reque
 
 7️⃣ Apply migrations: py manage.py migrate
 
-8️⃣ Create superuser : py3 manage.py createsuperuser
+8️⃣ Create superuser : py manage.py createsuperuser
 
 9️⃣ Start the local server: py manage.py runserver
 
