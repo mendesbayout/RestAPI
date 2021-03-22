@@ -4,7 +4,7 @@
 
 <img src="https://img.icons8.com/dusk/128/000000/python.png"/> <img src="https://github.com/mendesbayout/RestAPI/blob/master/django.svg"/> <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/> <img src="https://github.com/mendesbayout/RestAPI/blob/master/swagger.svg"/>
 
- #### Getting started
+ #### Introdução
 
 The purpose of this project is to present a simple solution for a Backend position in the company WORKALOVE. Feel Free to download & edit.
 
