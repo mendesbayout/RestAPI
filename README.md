@@ -1,5 +1,5 @@
 
- ### Cheff & Receip Backend
+ ### Cheff & Recipe Backend
  ### Stack: Python + Django Rest Framework + Postgres + SwaggerUI
 
 <img src="https://img.icons8.com/dusk/128/000000/python.png"/> <img src="https://github.com/mendesbayout/RestAPI/blob/master/django.svg"/> <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/> <img src="https://github.com/mendesbayout/RestAPI/blob/master/swagger.svg"/>
