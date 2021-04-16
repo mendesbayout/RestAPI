@@ -1,4 +1,4 @@
- ## Django REST API para processo WORKALOVE (03/2021) -
+
  ### Cheff & Receip Backend
  ### Stack: Python + Django Rest Framework + Postgres + SwaggerUI
 
